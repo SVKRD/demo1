@@ -18,3 +18,4 @@ helm repo update
   
   helm install stable/prometheus-operator
   ```
+vinod
