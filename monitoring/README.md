@@ -18,6 +18,4 @@ helm repo update
   
   helm install stable/prometheus-operator
   ```
-vinod
-reddy
-CD 
+vinod lives in bangalore 
